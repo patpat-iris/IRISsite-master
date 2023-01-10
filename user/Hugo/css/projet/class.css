@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.page {
+    background-color: gray;
+}
+
+.head {
+    margin-bottom: 10px;
+}
+
+.nav {
+    position: relative;
+    text-align: center;
+}
+
+.btn {
+    font-size: 15px;
+    width: 9.4%;
+    border: 8px groove CornflowerBlue;
+    background-color: lightcyan;
+    margin-left: 10px;
+
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    font-size: 15px;
+    width: 9.4%;
+    border: 8px groove green;
+    background-color: lightcyan;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.main {
+    margin-left: 0px;
+}
+
+.box1 {
+    width: 25%;
+    border: 10px groove green;
+    background-color: #CCC;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    display: inline-block;
+
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.box1text {
+    padding-left: 25px;
+    text-align: center;
+}
+
+.box2 {
+    width: 50%;
+    border: 6px groove green;
+    background-color: #CCC;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.box2text {
+    padding-left: 25px;
+    text-align: center;
+    
+}
+
+.linkContact {
+    color: black;
+}
+
+.linkContact:hover {
+    color: cornflowerblue;
+    transition: 0.5s;
+}
+
+.img1 {
+    width: 40%;
+    text-align: center;
+}
+
+.img2 {
+    width: 33%;
+    text-align: center;
+}
+
+.img3 {
+    width: 98%;
+    text-align: center;
+}
+
+.foot {
+    text-align: center;
+}
