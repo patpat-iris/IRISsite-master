@@ -14,3 +14,9 @@ border-image: linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);
 border-image-slice: 1;
 }
 
+.banane {
+
+    position: absolute; left: 1400px;
+
+
+}
